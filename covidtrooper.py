@@ -10,10 +10,10 @@ from tkinter import *
 import pyttsx3
 
 # TWITTER CONSUMER AND ACCESS KEY
-consumer_key = 'zDWPLuFK9IoGhs5lrXpKqCNBp'
-consumer_secret = '2MV94YDcCwtXE54FhYYzk1mngQroA7rWNqajbkipGRcSwAWTQ2'
-access_token = '918093653477691394-8VeDioyWHToZJ1P8gJLX0IhgqLMuVhW'
-access_token_secret = 'Px6cp5R9iK3c9JzKYeGUROsnxN8b0KZdABNuXLvHDUqeY'
+consumer_key = '...'
+consumer_secret = '...'
+access_token = '...'
+access_token_secret = '...'
 
 #AUTHENTICATING THE USER VIA THE DEFINED KEY VALUES
 auth = tweepy.OAuthHandler(consumer_key,consumer_secret)
